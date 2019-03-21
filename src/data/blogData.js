@@ -28,18 +28,6 @@ const blogData ={
           ]
       },
       {
-          "title": "Eran Hammer I can Understand that you can’t support fully on Hapi JS and after looking at issues…",
-          "pubDate": "2018-10-25 13:59:51",
-          "link": "https://medium.com/@tkssharma/eran-hammer-i-can-understand-that-you-cant-support-fully-on-hapi-js-and-after-looking-at-issues-619f7b5b7580?source=rss-9bea52c4baff------2",
-          "guid": "https://medium.com/p/619f7b5b7580",
-          "author": "Tarun Sharma",
-          "thumbnail": "https://medium.com/_/stat?event=post.clientViewed&referrerSource=full_rss&postId=619f7b5b7580",
-          "description": "\n<p><a href=\"https://medium.com/u/b4e3921706ee\">Eran Hammer</a> I can Understand that you can’t support fully on Hapi JS and after looking at issues list and the problems i am facing right now i also feel that now Hapi is not that big boss like framework **good old days are over ** When we build something and people start using it then its our responsibility to maintain that peace of code which we have written….</p>\n<img src=\"https://medium.com/_/stat?event=post.clientViewed&amp;referrerSource=full_rss&amp;postId=619f7b5b7580\" width=\"1\" height=\"1\">\n",
-          "content": "\n<p><a href=\"https://medium.com/u/b4e3921706ee\">Eran Hammer</a> I can Understand that you can’t support fully on Hapi JS and after looking at issues list and the problems i am facing right now i also feel that now Hapi is not that big boss like framework **good old days are over ** When we build something and people start using it then its our responsibility to maintain that peace of code which we have written….</p>\n<img src=\"https://medium.com/_/stat?event=post.clientViewed&amp;referrerSource=full_rss&amp;postId=619f7b5b7580\" width=\"1\" height=\"1\">\n",
-          "enclosure": {},
-          "categories": []
-      },
-      {
           "title": "Learn Node JS Beginner to Intermediate Level — Free Learning YouTube Videos",
           "pubDate": "2018-10-01 12:30:58",
           "link": "https://medium.com/@tkssharma/learn-node-js-beginner-to-intermediate-level-free-learning-youtube-videos-df79264ed0cf?source=rss-9bea52c4baff------2",

@@ -13,7 +13,7 @@ class Blogs extends Component {
       <div>
       <section className="section projects is-medium is-white has-text-centered">
         <div className="container is-narrow">
-          <h1 className="title is-spaced is-size-3-desktop is-size-4-mobile">My Recent Blogs Posted on Medium</h1>
+          <h1 className="title is-spaced is-size-3-desktop is-size-4-mobile">My Recent Blogs Posted on Medium @tkssharma</h1>
           <h2 className="subtitle is-size-5-desktop">Here are a few recent Tuts. Want to see more? <a href="mailto:tarun.softengg@gmail.com">Email me</a>.</h2>
           <div className="g-ytsubscribe" data-channelid="UCS1NeZF0Or2E1RAV9hQJz3g" data-layout="default" data-count="default"></div>
 

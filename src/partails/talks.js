@@ -1,13 +1,6 @@
 import React, { Component } from 'react';
 // import axios from 'axios';
 class YouTube extends Component {
-  /*
-  componentWillMount() {
-    axios.get('https://www.googleapis.com/youtube/v3/playlists?part=snippet&channelId=UCS1NeZF0Or2E1RAV9hQJz3g&maxResults=50&key=CCCCCCCCCCCCCC').then(res => {
-      console.log(res);
-      this.setState({ data: res.data.items });
-    });
-  } */
 
   render() {
     return (
@@ -18,6 +11,10 @@ class YouTube extends Component {
             <h2 className="subtitle is-size-5-desktop">Here are a few recent Conf & Meetup groups i have attended. Want to see me as speaker <a href="mailto:tarun.softengg@gmail.com">Email me</a>.</h2>
             <div className="project-grid">
               <div className="columns is-multiline is-mobile">
+                <div className="column is-12-mobile is-half-tablet is-one-third-desktop">
+                  <blockquote className="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Snippets from Tarun Sharma’s session @drupalcamplondon on Reusing Components between <a href="https://twitter.com/hashtag/Angular?src=hash&amp;ref_src=twsrc%5Etfw">#Angular</a>, <a href="https://twitter.com/hashtag/React?src=hash&amp;ref_src=twsrc%5Etfw">#React</a>, <a href="https://twitter.com/hashtag/Vue?src=hash&amp;ref_src=twsrc%5Etfw">#Vue</a> and Web-Components. <a href="https://t.co/zgnLRVaD1V">pic.twitter.com/zgnLRVaD1V</a></p>&mdash; SRIJAN (@Srijan) <a href="https://twitter.com/Srijan/status/1102189489248595968?ref_src=twsrc%5Etfw">March 3, 2019</a></blockquote>
+                  <script async src="https://platform.twitter.com/widgets.js" ></script>
+                </div>
                 <div className="column is-12-mobile is-half-tablet is-one-third-desktop">
                   <blockquote className="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Tarun Sharma, <a href="https://twitter.com/hashtag/MEAN?src=hash&amp;ref_src=twsrc%5Etfw">#MEAN</a> &amp; <a href="https://twitter.com/hashtag/JS?src=hash&amp;ref_src=twsrc%5Etfw">#JS</a> developer, shares his thoughts about ES6 &amp; <a href="https://twitter.com/hashtag/babel?src=hash&amp;ref_src=twsrc%5Etfw">#babel</a> - Follow him on Twitter - <a href="https://twitter.com/tkssharma?ref_src=twsrc%5Etfw">@tkssharma</a> for more updates <a href="https://twitter.com/hashtag/FEConfIN?src=hash&amp;ref_src=twsrc%5Etfw">#FEConfIN</a> <a href="https://t.co/5iKsEQBFJc">pic.twitter.com/5iKsEQBFJc</a></p>&mdash; TO THE NEW (@TOTHENEW) <a href="https://twitter.com/TOTHENEW/status/832824339728855040?ref_src=twsrc%5Etfw">February 18, 2017</a></blockquote>
                 </div>
@@ -45,6 +42,14 @@ class YouTube extends Component {
                 <div className="column is-12-mobile is-half-tablet is-one-third-desktop">
                   <blockquote className="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">I just published “Understanding @ViewChildren, <a href="https://twitter.com/viewchild?ref_src=twsrc%5Etfw">@ViewChild</a>, <a href="https://twitter.com/ContentChildren?ref_src=twsrc%5Etfw">@ContentChildren</a> and <a href="https://twitter.com/contentchild?ref_src=twsrc%5Etfw">@ContentChild</a>” <a href="https://t.co/fGZqfrwcvQ">https://t.co/fGZqfrwcvQ</a></p>&mdash; Tarun Sharma (@tkssharma) <a href="https://twitter.com/tkssharma/status/957834401995407361?ref_src=twsrc%5Etfw">January 29, 2018</a></blockquote>
                 </div>
+                <div className="column is-12-mobile is-half-tablet is-one-third-desktop">
+                  <blockquote className="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Web Development with Angular and Webpack 4 [Video] <a href="https://t.co/Kb9SBHnzHN">https://t.co/Kb9SBHnzHN</a></p>&mdash; Tarun Sharma (@tkssharma) <a href="https://twitter.com/tkssharma/status/1036078989486567424?ref_src=twsrc%5Etfw">September 2, 2018</a></blockquote>
+                </div>
+
+                <div className="column is-12-mobile is-half-tablet is-one-third-desktop">
+                  <blockquote className="twitter-tweet" data-lang="en"><p lang="und" dir="ltr"><a href="https://t.co/j0YhDkhj3S">https://t.co/j0YhDkhj3S</a></p>&mdash; Tarun Sharma (@tkssharma) <a href="https://twitter.com/tkssharma/status/914406618703392768?ref_src=twsrc%5Etfw">October 1, 2017</a></blockquote>
+                </div>
+
               </div>
             </div>
           </div>

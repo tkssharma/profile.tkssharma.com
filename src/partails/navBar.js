@@ -17,7 +17,6 @@ const navbar = (props)=> {
               <p className="control"><NavLink className="button is-primary is-outlined is-rounded" to="/blogs"><span>Blogs</span></NavLink></p>
               <p className="control"><NavLink className="button is-primary is-outlined is-rounded" to="/talks"><span>Talks</span></NavLink></p>
               <p className="control"><NavLink className="button is-primary is-outlined is-rounded" to="/training"><span>Trainings</span></NavLink></p>
-
             </div>
           </div>
         </div>

@@ -10040,7 +10040,8 @@ hr {
 
 .avatar {
     margin: 2rem 0;
-    width: 150px
+    width: 150px;
+    border-radius: 50%;
 }
 
 @media screen and (min-width: 769px) {

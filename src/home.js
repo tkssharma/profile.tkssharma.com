@@ -29,7 +29,7 @@ const Home = () => (
       <div className="container">
         <div className="columns is-centered">
           <div className="column is-three-fifths">
-            <h1 className="title is-spaced is-size-3-desktop is-size-4-mobile">Hi, I’m Tarun.😎 Nice to meet you.</h1>
+            <h1 className="title is-spaced is-size-3-desktop is-size-4-mobile">Hi, I’m Tarun.😎I help people to make better world by good apps</h1>
             <h2 className="subtitle is-size-5-desktop"><p>I am Publisher, Trainer  Developer, working on Enterprise and open source Technologies JavaScript frameworks (React  Angular 2.x), I work with client side and server side javascript programming which includes node js or any other frameworks
               Currently working with JavaScript framework React & Node js 🚀 with Graphql 🎉</p>
               

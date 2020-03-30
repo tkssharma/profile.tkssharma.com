@@ -117,7 +117,7 @@ const Home = () => (
             <div className="column level-item">
               <p>Interested in working together? We should queue up a chat. I’ll buy the coffee.</p>
             </div>
-            <div className="column level-item"><a className="button is-primary is-outlined is-rounded is-medium" href="mailto:tarun.softengg@gmail.com">Let's do this</a></div>
+            <div className="column level-item"><a className="button is-primary is-outlined is-rounded is-medium" target="_blank" href="https://tinyletter.com/tkssharma">Subscribe</a></div>
           </div>
         </div>
       </div>

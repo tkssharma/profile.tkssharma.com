@@ -8,7 +8,7 @@ const navbar = (props)=> {
   return (
     <nav className="navbar is-transparent">
       <div className="container">
-        <div className="navbar-brand"><a className="navbar-item" href="/"><img src={logo} alt="Tarun Sharma | developer, Trainer, Piblisher &amp; Mentor" height="48" /></a></div>
+        <div className="navbar-brand"><a className="navbar-item profile-icon" href="/">👨‍🏫</a></div>
         <div className="navbar-menu" id="navMenu">
           <div className="navbar-end">
             <div className="navbar-item">

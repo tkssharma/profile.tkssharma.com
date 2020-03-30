@@ -24,17 +24,17 @@ const startUpProjects = (props) => {
             <div className="columns is-centered level">
               <div className="column level-item">
                 <div className="box"><img className="logo" src={logo} alt="" />
-                  <p>bla bla | scooty application for Vehicle Rental</p><a className="link has-text-primary" href="http://blascooty.herokuappcom">blascooty.herokuappcom</a>
+                  <p>bla bla | scooty application for Vehicle Rental</p><a className="link has-text-primary" target="_blank" href="http://scooty.tkssharma.com">Scooty App for Rentals</a>
                 </div>
               </div>
               <div className="column level-item">
                 <div className="box"><img className="logo" src={logo1} alt="" />
-                  <p>Code fellows - Platform for developers to share Tech Videos</p><a className="link has-text-primary" href="http://hackio.herokuapp.com">http://hackio.herokuapp.com</a>
+                  <p>Code fellows - Platform for developers to share Tech Videos</p><a className="link has-text-primary" target="_blank" href="http://devs.tkssharma.com">http://devs.tkssharma.com</a>
                 </div>
               </div>
               <div className="column level-item">
                 <div className="box"><img className="logo" src={logo2} alt="" />
-                  <p>UBMAS- application for food Lovers all over the world</p><a className="link has-text-primary" href="http://foodix.herokuapp.com">http://foodix.herokuapp.com       </a>
+                  <p>UBMAS- application for food Lovers all over the world</p><a className="link has-text-primary" target="_blank" href="http://ubmas.tkssharma.com">http://ubmas.tkssharma.com       </a>
                 </div>
               </div>
             </div>

@@ -5,7 +5,7 @@ const Footer = (props) => {
   return (
     <footer className="section is-primary is-small has-text-centered">
       <div className="container is-narrow">
-        <div className="logo"><img src={logo} alt="Tarun Sharma | Designer, Front-end Developer &amp; Mentor" height="48" /></div>
+        <div className="logo"><a className="profile-icon" href="/">👨‍🏫</a></div>
         <div className="columns is-centered">
           <div className="column is-one-third">
             <h1 className="title is-size-4-touch">Living, learning, &amp; leveling up one day at a time.</h1>

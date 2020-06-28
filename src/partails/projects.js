@@ -1,6 +1,5 @@
 
 import React from 'react';
-import avatar from '../img/pascal-avatar.png';
 import logo from '../img/p_logo.png';
 import logo1 from '../img/p_logo1.png';
 import logo2 from '../img/p_logo2.png'

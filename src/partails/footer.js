@@ -1,6 +1,5 @@
 import React from 'react';
 
-import logo from '../img/mf-logo-white.svg'
 const Footer = (props) => {
   return (
     <footer className="section is-primary is-small has-text-centered">
